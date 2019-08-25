@@ -1,2 +1,2 @@
 # BetterSwordFight
-Chivalry swordfight on minecraft!
+Chivalry swordfight in minecraft!
