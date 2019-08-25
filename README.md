@@ -21,9 +21,11 @@ In Eclipse:
 
 Run > Run configurations > BetterSwordFight_Client
 
-# Useful link for modding with the forge API:
+# Useful link to learn modding with the forge API:
 
-https://mcforge.readthedocs.io/en/latest/
+https://mcforge.readthedocs.io/en/latest/ 
+
 https://www.minecraftforgefrance.fr/forgeevents
+
 https://www.youtube.com/watch?v=jFBuf_aGmec
 
